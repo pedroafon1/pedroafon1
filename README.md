@@ -1,11 +1,10 @@
 ### Ola! Eu sou o Pedro Afonso 👋
 
-💻 Estudante de Programação na UEPB | 🌍 Apaixonado por Tecnologia 
+💻 Estudante de Programação na UEPB | Sou apaixonado por tecnologia, desenvolvimento de software e segurança da informação. Atualmente, estudo e desenvolvo projetos voltados para back-end e front-end . 
 
-[![card](https://github-readme-stats.vercel.app/api?username=pedroafon1-code&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroafon1&show_icons=true&bg_color=00000000)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroafon1-code&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&bg_color=00000000)
 
 
 🚀 Linguagens de Programação
@@ -15,7 +14,5 @@
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,idea)](https://skillicons.dev)
 
 📬 Contato
-[![Instagram](https://img.shields.io/badge/-Pedro Afonso-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})](https://www.instagram.com/pedroaf0n/?hl=pt-br)
-  
- 
-</div><br/>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroaf0n)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-afonso-leite-de-andrade-a4a323220/)
