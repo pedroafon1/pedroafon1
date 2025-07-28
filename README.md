@@ -2,9 +2,9 @@
 
 💻 Estudante de Programação na UEPB | 🌍 Apaixonado por Tecnologia 
 
-[![card](https://github-readme-stats.vercel.app/api?username=FelipeHM-code&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=pedroafon1-code&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHM-code&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroafon1-code&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
