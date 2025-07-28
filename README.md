@@ -1,17 +1,21 @@
 ### Ola! Eu sou o Pedro Afonso 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroaf0n)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-afonso-leite-de-andrade-a4a323220/)
 
-![pedroafon1 GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroafon1&show_icons=true&theme=dark)
+💻 Estudante de Programação na UEPB | 🌍 Apaixonado por Tecnologia 
 
-## Tecnologias que ja tive contato
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="sass" src=https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white />
+[![card](https://github-readme-stats.vercel.app/api?username=FelipeHM-code&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHM-code&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,html,css,react)](https://skillicons.dev)
+
+🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea)](https://skillicons.dev)
+
+📬 Contato
+[![Instagram](https://img.shields.io/badge/-Pedro Afonso-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})](https://www.instagram.com/pedroaf0n/?hl=pt-br)
   
  
 </div><br/>
