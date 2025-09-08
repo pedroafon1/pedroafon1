@@ -8,10 +8,10 @@
 
 
 ### 🚀 Linguagens de Programação 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,java,spring,py,mysql)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas e Tecnologias 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea)](https://skillicons.dev)
 
 ### 📬 Contato 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroaf0n)
