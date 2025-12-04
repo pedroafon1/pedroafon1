@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Pedro Afonso 👋
 
-💻 Programming student at UEPB | I'm passionate about technology, software development, and information security. I'm currently studying and developing specific projects for back-end and front-end development.
+💻 Programming student at UEPB | I'm passionate about technology, software development, and information security. I'm currently studying and developing specific projects for back-end development.
 
 
 
