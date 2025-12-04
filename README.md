@@ -2,9 +2,6 @@
 
 💻 Programming student at UEPB | I'm passionate about technology, software development, and information security. I'm currently studying and developing specific projects for back-end and front-end development.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroafon1&show_icons=true&bg_color=00000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&bg_color=00000000)
 
 
 ### 🚀 Linguagens de Programação 
