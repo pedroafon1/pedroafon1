@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,java,spring,py,mysql)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas e Tecnologias 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,docker,aws)](https://skillicons.dev)
 
 ### 📬 Contato 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroaf0n)
