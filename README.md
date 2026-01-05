@@ -15,5 +15,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-afonso-leite-de-andrade-a4a323220/)
 
 ### 📈 Statiscts
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroafon1&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroafon1&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api?username=pedroafon1&show_icons=true&theme=algolia&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pedroafon1&show_icons=true&theme=algolia&count_private=true%22)
