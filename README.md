@@ -1,4 +1,4 @@
-### Hi! i'm Pedro Afonso 
+### Hi! i'm Pedro Afonso 👨‍🎓
 
 💻 Programming student at UEPB | I'm passionate about technology, software development, and information security. I'm currently studying and developing specific projects for back-end development.
 
