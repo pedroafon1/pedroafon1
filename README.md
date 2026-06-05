@@ -4,7 +4,7 @@
 
 
 ### 🚀 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,java,spring,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,java,spring,py,mysql)](https://skillicons.dev)
 
 ### 🛠️ Tools and Tecnologies 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,docker,aws)](https://skillicons.dev)
