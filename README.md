@@ -17,7 +17,7 @@
 
 ###
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=pedroafon1&locale=pt-br&mode=daily&theme=gotham&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  />
 </div>
 
