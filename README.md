@@ -15,3 +15,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-afonso-leite-de-andrade-a4a323220/)
 
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedroafon1&locale=pt-br&mode=daily&theme=gotham&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
