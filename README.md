@@ -36,9 +36,9 @@ I primarily work with:
 ---
 
 ## 📊 Github statistics
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroafon1&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroafon1&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroafon1&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroafon1&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroafon1&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroafon1&theme=dark)
 
 
 ---
