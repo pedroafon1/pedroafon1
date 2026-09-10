@@ -3,9 +3,17 @@
 
 💻 Programming student at UEPB | I'm passionate about technology, software development, and information security. I'm currently studying and developing specific projects for back-end development.
 
+I primarily work with:
+
+- **Java / Spring Boot**
+- **Node.js / TypeScript**
+- **Clean architectures (Clean, DDD, Hexagonal)**
+- **Distributed systems and messaging (BullMQ, Redis, RabbitMQ)**
+
+
 
 ### 🚀 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,java,spring,py,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,java,spring,py,mysql,postgresql)](https://skillicons.dev)
 
 ### 🛠️ Tools and Tecnologies 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,idea,docker,aws,postman)](https://skillicons.dev)
@@ -15,10 +23,22 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-afonso-leite-de-andrade-a4a323220/)
 
 
-###
+---
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=pedroafon1&locale=pt-br&mode=daily&theme=gotham&hide_border=false&border_radius=8&order=3" height="220" alt="streak graph"  />
-</div>
+## 💡 Soft Skills
+- Clear communication
+- Collaborative leadership
+- Critical thinking
+- Resilience and adaptability
+- Teamwork
+- Complex problem-solving 
 
-###
+---
+
+## 📊 Github statistics
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroafon1&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroafon1&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroafon1&theme=vue)
+
+
+---
